@@ -89,5 +89,5 @@
 ---
 
 <p align="center">
-  <em>“Creativity is intelligence having fun.” — Albert Einstein</em>
+  <em>“Some Days I Write Poetry, Other Days I Fix and Merge Conflicts-Sometimes Both..</em>
 </p>
