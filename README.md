@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hassan Raza</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Front-End+Developer;Creative+Technologist;Learning+Backend+Development;I+Love+to+Code+%26+Create!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Full-Stack+Developer;Creative+Technologist;Learning+Backend+Development;I+Love+to+Code+%26+Create!" alt="Typing SVG" />
 </p>
 
 ---
