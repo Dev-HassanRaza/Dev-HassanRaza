@@ -9,7 +9,7 @@
 ## 🧠 About Me  
 
 - 🎨 FullStack-End Developer passionate about bringing designs to life  
-- ⚛️ Skilled with **TypeScript** and **NodeJs**  
+- ⚛️ Skilled with **Vue**, **TypeScript** and **NodeJs**  
 - 🧪 Love experimenting with creative UI/UX, Backend and web animations  
 - 💻 **Languages I use:** JavaScript (Backend with Node.js & RestAPIs)  
 - 🚀 Always pushing creative limits in web development  
