@@ -19,19 +19,14 @@
 
 ## 🎯 About Me
 
-```javascript
-const hassan = {
-    location: "Karachi, Pakistan",
-    timezone: "GMT+5",
-    currentFocus: "Agentic AI & Autonomous Systems",
-    building: ["MCP Servers", "Voice AI Tools", "Real-Time SaaS"],
-    approach: "Production-first, not tutorial-first"
-};
-```
+> **"Production-first, not tutorial-first."**
+
+- 📍 **Location:** Karachi, Pakistan (GMT+5)
+- 🔭 **Current Focus:** Agentic AI & Autonomous Systems
+- 🛠️ **Building:** MCP Servers, Voice AI Tools, Real-Time SaaS
+- 💼 **Approach:** I don't just write code—I solve business problems with the right architecture, whether that's a Vue.js dashboard or a Python-powered MCP server.
 
 I architect and build **production-grade systems** that scale. My work spans from **high-concurrency SaaS platforms** to **autonomous AI agents** that reason, orchestrate tools, and execute real-world actions.
-
-I don't just write code—I solve business problems with the right architecture, whether that's a Vue.js dashboard or a Python-powered MCP server.
 
 <br/>
 
@@ -167,16 +162,12 @@ Automated business operations replacing 40+ hours of manual work weekly:
 
 <br/>
 
-## 🎯 Current Focus
+## ⚡ Current Focus
 
-```python
-class CurrentWork:
-    def __init__(self):
-        self.focus = "Building AI agents that take action"
-        self.learning = ["Advanced MCP patterns", "Voice AI optimization"]
-        self.building = ["Production MCP servers", "Real-time AI systems"]
-        self.philosophy = "Ship systems that scale under real use"
-```
+- 🧠 **Focus:** Building AI agents that take action
+- 📚 **Learning:** Advanced MCP patterns, Voice AI optimization
+- 🏗️ **Building:** Production MCP servers, Real-time AI systems
+- 💎 **Philosophy:** Ship systems that scale under real use
 
 <br/>
 
