@@ -1,98 +1,122 @@
-<h1 align="center">👋 Hi, I'm Hassan Raza</h1>
+<h1 align="center">
+  Hassan Raza
+</h1>
+
+<h3 align="center">
+  Software Engineer · Full Stack · Agentic AI Systems
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=42b883&width=520&lines=Software+Engineer;Full+Stack+%7C+AI+Agent+Systems;MEVN+%26+Modern+React;Building+Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=42B883&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Web+Systems;Designing+Autonomous+AI+Agents;From+Scalable+SaaS+to+Voice+AI" />
 </p>
-
----
-
-## 🧠 About Me
 
 <p align="center">
-  <em>
-    Software Engineer based in Karachi, working at the intersection of scalable web architecture and autonomous AI systems.
-  </em>
+  <a href="https://www.linkedin.com/in/hassan-raza-3548b4255/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Dev-HassanRaza">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/HassanRaza">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
 </p>
 
-I’m a final-year Software Engineering student at **Sindh Madressatul Islam University (SMIU)**, but my work is already grounded in production-level engineering.
-
-I design and build **end-to-end systems** — from real-time SaaS platforms to AI agents that can reason, access tools, and execute actions. I focus on clean architecture, practical AI, and solutions that solve real business problems rather than demos that look good once.
-
-- 💻 **Core Engineering:** Vue.js, React.js, Node.js, Express.js, MongoDB, TypeScript  
-- 🤖 **Current Focus:** Agentic AI systems using **Python**, **LangGraph**, **MCP**, and **Voice AI**  
-- 🔁 **Automation:** Workflow orchestration and system integration using **n8n**  
-- 🎯 **Approach:** Strong fundamentals, clear system boundaries, and production-first thinking  
+<br/>
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Who I Am
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,vuetify,js,ts,nodejs,express,mongodb,python,tailwind,git,github,postman" alt="My Tech Stack" />
-</p>
+I’m a **Software Engineer based in Karachi**, finishing my degree at **Sindh Madressatul Islam University (SMIU)**.  
+My work already lives in **production**, not coursework.
 
----
-
-<table align="center" width="100%" cellpadding="10">
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">📊 GitHub Stats</h2>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2 align="center">🏆 GitHub Trophies</h2>
-      <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Dev-HassanRaza&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h2 align="center">📈 Contribution Activity</h2>
-      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=darkhub&area=true&hide_border=true" alt="Contribution Graph" />
-      </p>
-    </td>
-  </tr>
-</table>
+I build **scalable SaaS platforms** and **autonomous AI systems** that can reason, access tools, and execute actions.  
+I care about architecture, system boundaries, and software that survives real users.
 
 ---
 
-## 📫 Connect with Me
+## ⚙️ What I Build
 
-<table align="center" border="0" cellpadding="10">
+<table>
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/hassan-raza-3548b4255/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-        <br/>LinkedIn
-      </a>
+    <td width="50%">
+      <h3>🌐 Scalable Web Systems</h3>
+      <ul>
+        <li>High-concurrency APIs</li>
+        <li>Real-time systems with WebSockets</li>
+        <li>Clean state & component architecture</li>
+        <li>Production-grade SaaS platforms</li>
+      </ul>
     </td>
-    <td align="center">
-      <a href="https://github.com/Dev-HassanRaza" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-        <br/>GitHub
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/HassanRaza" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
-        <br/>X
-      </a>
+    <td width="50%">
+      <h3>🤖 Agentic AI & Automation</h3>
+      <ul>
+        <li>Python-based MCP servers</li>
+        <li>Voice AI with Vapi</li>
+        <li>LangChain & LangGraph workflows</li>
+        <li>n8n automation pipelines</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-HassanRaza&style=for-the-badge&color=blue" alt="Visitor Counter"/>
+  <img src="https://skillicons.dev/icons?i=vue,react,js,ts,nodejs,express,mongodb,python,tailwind,git,github,postman&perline=6" />
+</p>
+
+---
+
+## 🧩 Selected Work
+
+### 🔊 Voice AI & MCP Infrastructure
+**Python · MCP · React · Vapi**
+
+Built backend infrastructure for a next-gen voice agent.  
+Designed a Python MCP server to manage context, tools, and secure data access, integrated with a real-time React frontend.
+
+---
+
+### 📦 Logistics CRM & SaaS Platform
+**Vue · Node · MongoDB · WebSockets**
+
+Engineered a full logistics system from scratch:
+- Courier integrations (Leopard, Trax)
+- Real-time tracking via WebSockets
+- Financial reconciliation and analytics dashboards
+
+---
+
+### 🔁 Automation Pipelines
+**n8n · Webhooks · APIs**
+
+Designed automation workflows to eliminate manual operations and synchronise multiple business tools into clean, reliable systems.
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&hide_border=true&theme=darkhub"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-HassanRaza&hide_border=true&theme=darkhub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=darkhub&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-HassanRaza&style=flat&color=42B883"/>
 </p>
 
 <p align="center">
   <em>
-    I build systems that scale, automate, and ship — not just code that runs.
+    I ship systems that scale, automate, and hold up under real use.
   </em>
 </p>
