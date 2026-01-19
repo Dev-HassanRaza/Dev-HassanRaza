@@ -19,6 +19,7 @@
 
 ## 🎯 About Me
 
+```typescript
 const hassan = {
     location: "Karachi, Pakistan",
     timezone: "GMT+5",
@@ -26,6 +27,7 @@ const hassan = {
     building: ["MCP Servers", "Voice AI Tools", "Real-Time SaaS"],
     approach: "Production-first, not tutorial-first"
 };
+```
 
 I architect and build **production-grade systems** that scale. My work spans from **high-concurrency SaaS platforms** to **autonomous AI agents** that reason, orchestrate tools, and execute real-world actions.
 
@@ -127,10 +129,39 @@ Automated business operations replacing 40+ hours of manual work weekly:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-HassanRaza&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF"/>
+</div>
+
+<br/>
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6)
+
+<br/>
+
+### 📅 Contribution Calendar
+
+![GitHub Contributions](https://ghchart.rshah.org/3B82F6/Dev-HassanRaza)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-HassanRaza&theme=tokyonight"/>
+
+</div>
+
+<br/>
+
+## 💡 Most Used Languages
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HassanRaza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-HassanRaza&theme=tokyonight"/>
 
 </div>
 
@@ -138,13 +169,14 @@ Automated business operations replacing 40+ hours of manual work weekly:
 
 ## 🎯 Current Focus
 
-
+```python
 class CurrentWork:
     def __init__(self):
         self.focus = "Building AI agents that take action"
         self.learning = ["Advanced MCP patterns", "Voice AI optimization"]
         self.building = ["Production MCP servers", "Real-time AI systems"]
         self.philosophy = "Ship systems that scale under real use"
+```
 
 <br/>
 
