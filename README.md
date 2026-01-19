@@ -227,15 +227,6 @@ World-class personal portfolio:
 
 </div>
 
-<br/>
-
-<div align="center">
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" width="95%" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
 ## ⚡ Current Focus & Philosophy
 
 <div align="center">
