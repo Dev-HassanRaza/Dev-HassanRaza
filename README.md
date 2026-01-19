@@ -1,110 +1,77 @@
-<h1 align="center">👋 Hi, I'm Hassan Raza</h1>
+<div align="center">
+<a href="#">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DDev-HassanRaza%26label%3DProfile%2520views%26color%3D42b883%26style%3Dflat" alt="Dev-HassanRaza" />
+</a>
+<a href="https://github.com/Dev-HassanRaza">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Full%2520Stack-Developer-42b883%3Fstyle%3Dflat%26logo%3Dvue.js%26logoColor%3Dwhite" alt="Full Stack Developer Badge" />
+</a>
+</div>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D24%26pause%3D1000%26color%3D42b883%26width%3D500%26lines%3DFull%2BStack%2BEngineer%3BBuilding%2BAutonomous%2BAI%2BAgents%3BVapi%2BUser%2B%2526%2BMCP%2BSpecialist%3BMEVN%2B%252B%2BPython%2BDeveloper" alt="Typing SVG" />
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D42b883%26width%3D500%26lines%3DFull%2BStack%2BEngineer%3BBuilding%2BAutonomous%2BAI%2BAgents%3BVapi%2BUser%2B%2526%2BMCP%2BSpecialist%3BMEVN%2B%252B%2BPython%2BDeveloper" alt="Typing SVG Banner" />
+</div>
 
-🧠 About Me
+<h1 align="left">Hi 👋! My name is Hassan Raza and I'm a Full Stack + AI Developer from Pakistan</h1>
 
-<p align="center">
-<em>Software Engineer bridging the gap between Scalable Web Architecture and Agentic AI.</em>
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDev-HassanRaza%26hide_title%3Dfalse%26hide_rank%3Dfalse%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Ddarkhub%26locale%3Den%26hide_border%3Dfalse" height="150" alt="stats graph"  />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DDev-HassanRaza%26locale%3Den%26hide_title%3Dfalse%26layout%3Dcompact%26card_width%3D320%26langs_count%3D5%26theme%3Ddarkhub%26hide_border%3Dfalse" height="150" alt="languages graph"  />
+</div>
 
-I don't just build websites; I build intelligent systems that take action. My background is in engineering production-grade SaaS platforms using the MEVN Stack, but my current focus is on the bleeding edge of Generative AI.
+<img align="right" height="150" src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
 
-🔭 Current Focus: Architecting next-gen Voice AI tools using Vapi, Python, and the Model Context Protocol (MCP).
+<h3 align="left">Languages and Tools:</h3>
 
-💻 Core Stack: Polyglot developer fluent in JavaScript/TypeScript (Vue/React) and Python.
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+</div>
 
-🤖 AI Engineering: Building stateful agents with LangGraph, n8n automation workflows, and custom MCP Servers.
+<h3 align="left">Connect With Me</h3>
 
-🚀 Goal: To eliminate manual processes by building autonomous agents that can see, hear, and execute tasks.
 
-🛠️ Tech Stack & Arsenal
 
-Languages & Frameworks
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,python,vue,react,nodejs,express,mongodb,tailwind,vuetify,git,github,vscode,postman" alt="My Tech Stack" />
-</p>
-
-AI, Automation & Emerging Tech
-
-<p align="center">
-<!-- Custom Badges for new AI Tech -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Agentic_AI-LangGraph-blue%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Voice_AI-Vapi-purple%3Fstyle%3Dfor-the-badge%26logo%3Dmicrophone%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Protocol-MCP_(Model_Context_Protocol)-000000%3Fstyle%3Dfor-the-badge%26logo%3Danthropic%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Automation-n8n-ff6f61%3Fstyle%3Dfor-the-badge%26logo%3Dn8n%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LLMs-OpenAI-412991%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" />
-</p>
-
-<table align="center" width="100%" cellpadding="10">
-<tr>
-<td width="50%" valign="top">
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-HassanRaza&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<h2 align="center">🐍 GitHub Contribution Graph</h2>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=darkhub&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-</td>
-</tr>
-</table>
-
-📫 Connect with Me
-
-<table align="center" border="0" cellpadding="10">
-<tr>
-<td align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/hassan-raza-3548b4255/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-
-
-
-
-LinkedIn
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-</td>
-<td align="center">
 <a href="https://github.com/Dev-HassanRaza" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-
-
-
-
-GitHub
+<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DGitHub%26logo%3Dgithub%26label%3D%26color%3D181717%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="35" alt="github logo"  />
 </a>
-</td>
-<td align="center">
 <a href="https://x.com/HassanRaza" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
-
-
-
-
-X
+<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DTwitter/X%26logo%3Dx%26label%3D%26color%3D000000%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="35" alt="twitter logo"  />
 </a>
-</td>
-</tr>
-</table>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dev-HassanRaza&style=for-the-badge&color=blue" alt="Visitor Counter"/>
-</p>
-
-<p align="center">
-<em>“Some Days I Write Poetry, Other Days I Train Agents to Write It For Me.”</em>
-</p>
+<br clear="both">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Dev-HassanRaza/Dev-HassanRaza/output/snake.svg" alt="Snake animation" />
