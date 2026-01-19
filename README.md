@@ -7,14 +7,14 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/hassan-raza-3548b4255/"><img src="https://img.shields.io/badge/-Hassan_Raza-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/Dev-HassanRaza"><img src="https://img.shields.io/badge/-Dev--HassanRaza-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Fev-HassanRaza"><img src="https://img.shields.io/badge/-Fev--HassanRaza-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <a href="https://twitter.com/hassanr08927093"><img src="https://img.shields.io/badge/-@hassanr08927093-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:hr44455732@gmail.com"><img src="https://img.shields.io/badge/-hr44455732@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dev-HassanRaza&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Fev-HassanRaza&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -53,7 +53,9 @@ I architect and build **production-grade systems** that scale. My work spans fro
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-HassanRaza&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fev-HassanRaza&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Hassan's Trophies" />
+</a>
 
 </div>
 
@@ -219,47 +221,27 @@ World-class personal portfolio:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-HassanRaza&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=3B82F6&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HassanRaza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=10&hide=html,css" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev-HassanRaza&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact" alt="Coding Time"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fev-HassanRaza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Hassan's Github Stats" />
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fev-HassanRaza&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=3B82F6&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Hassan's Streak" />
+</a>
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fev-HassanRaza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fev-HassanRaza&theme=tokyonight" alt="Productive Time"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Contribution Graph"/>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-HassanRaza/Dev-HassanRaza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-HassanRaza/Dev-HassanRaza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-HassanRaza/Dev-HassanRaza/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📈 Productivity Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-HassanRaza&theme=tokyonight" width="95%" alt="Profile Summary"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-HassanRaza&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-HassanRaza&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-HassanRaza&theme=tokyonight"/>
-
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fev-HassanRaza&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" width="95%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -342,19 +324,19 @@ World-class personal portfolio:
 ### 💬 Reach Out
 
 <a href="mailto:hr44455732@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/hassan-raza-3548b4255/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://wa.me/923180279868">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 <a href="https://twitter.com/hassanr08927093">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="https://your-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
