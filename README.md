@@ -1,76 +1,91 @@
-<div align="center">
-<a href="#">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DDev-HassanRaza%26label%3DProfile%2520views%26color%3D42b883%26style%3Dflat" alt="Dev-HassanRaza" />
-</a>
-<a href="https://github.com/Dev-HassanRaza">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Full%2520Stack-Developer-42b883%3Fstyle%3Dflat%26logo%3Dvue.js%26logoColor%3Dwhite" alt="Full Stack Developer Badge" />
-</a>
-</div>
+<h1 align="center">👋 Hi, I'm Hassan Raza</h1>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D42b883%26width%3D500%26lines%3DFull%2BStack%2BEngineer%3BBuilding%2BAutonomous%2BAI%2BAgents%3BVapi%2BUser%2B%2526%2BMCP%2BSpecialist%3BMEVN%2B%252B%2BPython%2BDeveloper" alt="Typing SVG Banner" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=42b883&width=435&lines=Full+Stack+Developer;MEVN+Stack+Specialist;AI+Agent+Developer;Passionate+Problem-Solver" alt="Typing SVG" />
+</p>
 
-<h1 align="left">Hi 👋! My name is Hassan Raza and I'm a Full Stack + AI Developer from Pakistan</h1>
+---
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDev-HassanRaza%26hide_title%3Dfalse%26hide_rank%3Dfalse%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Ddarkhub%26locale%3Den%26hide_border%3Dfalse" height="150" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DDev-HassanRaza%26locale%3Den%26hide_title%3Dfalse%26layout%3Dcompact%26card_width%3D320%26langs_count%3D5%26theme%3Ddarkhub%26hide_border%3Dfalse" height="150" alt="languages graph"  />
-</div>
+## 🧠 About Me
 
-<img align="right" height="150" src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
+<p align="center">
+  <em>Final-year Software Engineering student and a Full Stack Developer passionate about building scalable, end-to-end web applications.</em>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+- 💻 **Core Stack:** Skilled with **Vue.js**, **Node.js**, **Express.js**, **MongoDB**, **TypeScript**, and **Vuetify**.
+- 🤖 **Currently Building:** AI agents and orchestration pipelines using **Python** & **LangGraph**.
+- 🎨 **Passion:** Bringing complex designs to life with creative UI/UX, RESTful APIs, and smooth web animations.
+- 🚀 **Goal:** Always pushing creative limits to write clean, efficient, and impactful code.
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
+---
 
-<h3 align="left">Connect With Me</h3>
+## 🚀 Tech Stack
 
-<div align="left">
-<a href="https://www.linkedin.com/in/hassan-raza-3548b4255/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-<a href="https://github.com/Dev-HassanRaza" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DGitHub%26logo%3Dgithub%26label%3D%26color%3D181717%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="35" alt="github logo"  />
-</a>
-<a href="https://x.com/HassanRaza" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DTwitter/X%26logo%3Dx%26label%3D%26color%3D000000%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="35" alt="twitter logo"  />
-</a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,vuetify,js,ts,nodejs,express,mongodb,tailwind,git,github,vscode,postman" alt="My Tech Stack" />
+</p>
 
-<br clear="both">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Dev-HassanRaza/Dev-HassanRaza/output/snake.svg" alt="Snake animation" />
+---
+
+<table align="center" width="100%" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="center">📊 GitHub Stats</h2>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2 align="center">🏆 GitHub Trophies</h2>
+      <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Dev-HassanRaza&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h2 align="center">🐍 GitHub Contribution Graph</h2>
+      <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=darkhub&area=true&hide_border=true" alt="Contribution Graph" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Connect with Me
+
+<table align="center" border="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/hassan-raza-3548b4255/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dev-HassanRaza" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+        <br/>GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/HassanRaza" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
+        <br/>X
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-HassanRaza&style=for-the-badge&color=blue" alt="Visitor Counter"/>
+</p>
+
+<p align="center">
+  <em>“Some Days I Write Poetry, Other Days I Fix and Merge Conflicts—Sometimes Both.”</em>
+</p>
+ (update this according to my new skills and make it more perfect )
