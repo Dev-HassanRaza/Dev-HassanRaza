@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-```typescript
+```javascript
 const hassan = {
     location: "Karachi, Pakistan",
     timezone: "GMT+5",
