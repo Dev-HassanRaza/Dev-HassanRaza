@@ -212,13 +212,6 @@ World-class personal portfolio:
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Hassan's Github Stats" />
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-HassanRaza&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=3B82F6&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Hassan's Streak" />
-</a>
-
 <br/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HassanRaza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
