@@ -30,7 +30,7 @@
 <td width="65%">
 
 ### 🦅 Profile Summary
-I am a **Senior AI Systems Architect** specialized in building **Agentic Ecosystems**. My work focuses on high-concurrency real-time systems, where I integrate advanced LLM reasoning with production-hardened web infrastructure.
+I am a **Software Engineer and AI Architect** specialized in building **Agentic Ecosystems**. My work focuses on high-concurrency real-time systems, where I integrate advanced LLM reasoning with production-hardened web infrastructure.
 
 - 🌌 **Niche:** Agentic AI, Voice AI Orchestration, & Real-Time SaaS.
 - 🚀 **Current Stack:** Next.js 15 (Canary), Tailwind 4, Supabase Auth/DB, Vapi AI.
