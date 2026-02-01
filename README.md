@@ -1,205 +1,118 @@
-<div align="center"> 
-   
-<img width="100%" src="https://capsule- render.vercel.app/api
-   type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Raza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20·%20AI%20Systems%20Architect%20·%20Production%20Builder&descAlignY=51&descAlign=50"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI+Systems+That+Take+Action;Scalable+SaaS+%7C+Real-Time+Systems;Voice+AI+%7C+MCP+Servers+%7C+Automation;From+Architecture+to+Production;10%2C000%2B+Hours+of+Production+Code" alt="Typing SVG" />
+<!-- World-Class Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Hassan%20Raza&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20Senior%20Engineering%20Lead&descAlignY=55&descAlign=50&animation=twinkling"/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/hassan-raza-3548b4255/"><img src="https://img.shields.io/badge/-Hassan_Raza-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/Dev-HassanRaza"><img src="https://img.shields.io/badge/-Dev--HassanRaza-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://twitter.com/hassanr08927093"><img src="https://img.shields.io/badge/-@hassanr08927093-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:hr44455732@gmail.com"><img src="https://img.shields.io/badge/-hr44455732@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<!-- High-Impact Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=ARCHITECTING+NEXT-GEN+VOICE+AI;SHIPPING+PRODUCTION+AGENTIC+SYSTEMS;NEXT.JS+15+%E2%9C%96+TAILWIND+CSS+4+%E2%9C%96+SUPABASE;10,000%2B+HOURS+OF+HIGH-PERFORMANCE+LOGIC" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dev-HassanRaza&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
+<!-- Stats Row 1: High Trust Badges -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev-HassanRaza&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="Trophies" /></a>
+</p>
+
+<!-- Social Connect Hub -->
+<p align="center">
+<a href="https://www.linkedin.com/in/hassan-raza-3548b4255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Dev-HassanRaza"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://wa.me/923180279868"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:hr44455732@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
 <br/>
 
-## 🎯 About Me
+## 🔱 The Architect's Manifesto
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+> **"In a world of wrappers, I build foundationally. I ship production-grade architectures where every millisecond is accounted for and every edge case is handled."**
 
 <div align="left">
-
-> **"Production-first, not tutorial-first."**
-
-- 📍 **Location:** Karachi, Pakistan
-- 🔭 **Current Focus:** Agentic AI & Autonomous Systems
-- 🛠️ **Building:** MCP Servers, Voice AI Tools, Real-Time SaaS
-- 💡 **Philosophy:** I don't just write code—I solve business problems.
-
-### 💡 What I Do
-
-I architect and build **production-grade systems** that scale. My work spans from **high-concurrency SaaS platforms** handling thousands of daily transactions to **autonomous AI agents** that reason, orchestrate tools, and execute real-world actions.
-
-### 🎖️ Expertise Areas
-
-- 🏗️ **Architecture:** Scalable system design, microservices, real-time data flow
-- ⚡ **Performance:** High-concurrency APIs, WebSocket systems, optimization
-- 🤖 **AI Integration:** LangChain workflows, MCP servers, voice agent systems
-- 📊 **Full-Stack:** Vue.js/React frontends, Node.js/Python backends
-- 🔄 **Automation:** n8n pipelines, webhook systems, business process automation
-
-</div>
-
-<br clear="both"/>
-
-<br/>
-
-## 🚀 What I Build
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%">
 
-### 🌐 Scalable Web Systems
-- High-concurrency REST APIs
-- Real-time WebSocket systems
-- Production SaaS platforms
-- Clean architecture & state management
-- Courier integrations (Leopard, Trax)
+### 🦅 Profile Summary
+I am a **Senior AI Systems Architect** specialized in building **Agentic Ecosystems**. My work focuses on high-concurrency real-time systems, where I integrate advanced LLM reasoning with production-hardened web infrastructure.
+
+- 🌌 **Niche:** Agentic AI, Voice AI Orchestration, & Real-Time SaaS.
+- 🚀 **Current Stack:** Next.js 15 (Canary), Tailwind 4, Supabase Auth/DB, Vapi AI.
+- ⚡ **Performance:** Obsessed with latency reduction and system reliability.
+- 🌍 **Mission:** Scaling intelligence from local prototypes to global production.
 
 </td>
-<td width="50%" valign="top">
-
-### 🤖 Agentic AI & Automation
-- Python MCP servers for Voice AI
-- LangChain & LangGraph workflows
-- Vapi.ai voice agent integrations
-- n8n automation pipelines
-- Context-aware autonomous systems
-
+<td width="35%" align="center">
+<img src="https://streak-stats.demolab.com/?user=Dev-HassanRaza&theme=tokyonight&hide_border=true" width="100%"/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Dev-HassanRaza&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" width="100%"/>
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
-## 💻 Tech Stack & Skills
+## 🛠️ Specialized Technical Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Development
-<p>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & APIs
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🤖 AI & Automation
-<p>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vapi.ai-6366F1?style=for-the-badge&logo=v&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP_Servers-4A5568?style=for-the-badge&logo=serverfault&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
+| **Core Engineering** | **AI & Autonomy** | **Data & Infrastructure** |
+| :--- | :--- | :--- |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Agents-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Postgres](https://img.shields.io/badge/Supabase-3E2F84?style=flat-square&logo=supabase&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white) | ![OpenAI](https://img.shields.io/badge/LLMs-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![LangChain](https://img.shields.io/badge/Chain-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Vapi](https://img.shields.io/badge/Voice-Vapi.ai-6366F1?style=flat-square&logo=waves&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | ![n8n](https://img.shields.io/badge/Flow-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
 <br/>
 
-## 🎯 Featured Projects
+## 🏆 Signature Production Projects
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
-<td width="50%">
+<td width="333px" valign="top">
 
-### 🎙️ Voice AI Infrastructure
-**Python · MCP · Vapi · React**
-
-<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-AI%20System-blue?style=flat-square"/>
-
-Built production backend for next-gen voice agent:
-- ✅ Custom Python MCP server architecture
-- ✅ Real-time context & tool orchestration
-- ✅ WebSocket streaming integration
-- ✅ Production-grade error handling
-
-**Impact:** Reduced response latency by 60%
+### 🎙️ Voice AI SaaS (V2)
+**Next.js 15 · Supabase · Vapi · Framer**
+*The Benchmark in Voice Agent platforms.*
+- ✅ High-fidelity dashboard & analytics.
+- ✅ Sub-100ms voice response latency.
+- ✅ Full multi-tenant enterprise auth.
+- ✅ Premium GSAP/Framer UX.
+<br/>
+<a href="https://github.com/Dev-HassanRaza/Ai-Voice-Saas-v2"><img src="https://img.shields.io/badge/Explore_Architecture-3B82F6?style=for-the-badge" height="25"/></a>
 
 </td>
-<td width="50%">
+<td width="333px" valign="top">
 
-### 📦 Logistics & CRM SaaS
-**Vue.js · Node.js · MongoDB · WebSockets**
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/> <img src="https://img.shields.io/badge/Scale-High_Concurrency-orange?style=flat-square"/>
-
-Enterprise logistics management platform:
-- ✅ Real-time courier tracking (WebSocket)
-- ✅ API integrations (Leopard, Trax)
-- ✅ Financial reconciliation dashboards
-- ✅ Handles 1000+ daily shipments
-
-**Impact:** Saved 40+ hrs/week manual work
+### 🤖 Autonomous MCP Hub
+**Python · Agentic AI · Fast API**
+*The Infrastructure for Tool-Using AI.*
+- ✅ Custom MCP Server implementation.
+- ✅ Context-aware agent orchestration.
+- ✅ Secure Tool-call execution engine.
+- ✅ Production-grade error handling.
+<br/>
+<a href="https://github.com/Dev-HassanRaza/voice_mcp-backend"><img src="https://img.shields.io/badge/View_Infrastructure-10B981?style=for-the-badge" height="25"/></a>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="333px" valign="top">
 
-### 🔄 Business Automation Suite
-**n8n · Webhooks · REST APIs**
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/> <img src="https://img.shields.io/badge/ROI-40hrs%2Fweek-green?style=flat-square"/>
-
-Automated business operations pipeline:
-- ✅ Multi-platform data synchronization
-- ✅ Automated reporting & analytics
-- ✅ Webhook-based event processing
-- ✅ Zero-touch reconciliation
-
-**Impact:** 100% automation of routine tasks
-
-</td>
-<td width="50%">
-
-### 🌐 Production Portfolio
-**Vue.js · GSAP · Tailwind · Vercel**
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/> <img src="https://img.shields.io/badge/Performance-98%2F100-brightgreen?style=flat-square"/>
-
-World-class personal portfolio:
-- ✅ Premium animations & interactions
-- ✅ Mobile-optimized performance
-- ✅ Custom cursor & scroll effects
-- ✅ Production-grade optimization
-
-**Tech:** Advanced GSAP, Lenis, Tilt.js
+### 📦 Logistics Command Center
+**Vue.js · Node.js · WebSockets**
+*High-Concurrency Operational SaaS.*
+- ✅ 1000+ Daily shipment management.
+- ✅ Real-time WebSocket courier sync.
+- ✅ Automated financial reconciliation.
+- ✅ Leopard/Trax API Integrations.
+<br/>
+<a href="https://github.com/Dev-HassanRaza/freelance-matcher"><img src="https://img.shields.io/badge/System_Demo-F59E0B?style=for-the-badge" height="25"/></a>
 
 </td>
 </tr>
@@ -209,133 +122,42 @@ World-class personal portfolio:
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Performance Analytics
 
 <div align="center">
-
-<br/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HassanRaza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-HassanRaza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Stats" />
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-HassanRaza&theme=tokyonight" alt="Productive Time"/>
+<br/>
 
-</div>
-
-## ⚡ Current Focus & Philosophy
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 What I'm Building Now
-
-- **Primary:** AI Agents that take action
-- **Learning:**
-  - Advanced MCP patterns
-  - Voice AI optimization
-  - Production ML systems
-- **Shipping:**
-  - Production MCP servers
-  - Real-time AI systems
-  - Scalable SaaS platforms
-
-</td>
-<td width="50%" valign="top">
-
-### 💎 Core Philosophy
-
-> **"I ship systems that scale, automate, and hold up under real use."**
-
-- 🎯 **Production-First:** No tutorials, only real systems
-- ⚡ **Performance:** Every millisecond counts
-- 🔧 **Architecture:** Right tool for the problem
-- 📈 **Impact:** Code that creates business value
-- 🚀 **Ship Fast:** Iterate in production
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=6366F1" alt="Activity Graph" />
 
 </div>
 
 <br/>
 
-## 🤝 Let's Build Something Together
+## 🎯 Current Missions & Collaboration
 
 <div align="center">
 
-### 📫 Available For
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/job.png" width="50"/>
-<br/>
-<b>Full-Time Opportunities</b>
-<br/>
-<sub>Software Engineer · AI Engineer</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/contract.png" width="50"/>
-<br/>
-<b>Contract Work</b>
-<br/>
-<sub>System Architecture · AI Integration</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="50"/>
-<br/>
-<b>Freelance Projects</b>
-<br/>
-<sub>Full-Stack · AI Systems · Automation</sub>
-</td>
-</tr>
-</table>
+| **Currently Building** | **Learning Path** | **Availability** |
+| :--- | :--- | :--- |
+| Agentic Voice Operating Systems | Advanced LLM Fine-tuning | Consulting & Senior Roles |
+| Global Tool-Orchestration Hubs | Distributed ML Systems | Strategic Partnerships |
 
 <br/>
 
-### 💬 Reach Out
+### 🤝 Let's Architect the Future
 
-<a href="mailto:hr44455732@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/hassan-raza-3548b4255/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://wa.me/923180279868">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="https://twitter.com/hassanr08927093">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://your-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+Whether you're looking for a **Lead Engineer**, **AI Infrastructure Architect**, or a **Strategic Partner** to scale your SaaS, I'm ready to ship.
 
-<br/><br/>
-
-### ⏰ Best Time to Reach Me
-
-<img src="https://img.shields.io/badge/Timezone-GMT+5_(PKT)-blue?style=for-the-badge&logo=clockify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Response_Time-Within_24hrs-success?style=for-the-badge&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Availability-Open_to_Discuss-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
-
-<br/><br/>
-
-<sub>💡 <b>Pro Tip:</b> Mention "GitHub" in your message so I know where you found me!</sub>
-
-<br/><br/>
-
----
+[**Book a Performance Audit**](mailto:hr44455732@gmail.com) · [**Explore My Portolio**](https://your-portfolio.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/hassan-raza-3548b4255/)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+build+something+that+matters;Production+systems+that+scale+and+deliver+value" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=THANK+YOU+FOR+WITNESSING+THE+ENGINEERING.;SHAPING+A+AUTONOMOUS+WORLD+ONE+COMMIT+AT+A+TIME.;PRODUCTION-FIRST.+PERFORMANCE-ALWAYS." />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer"/>
 
 </div>
