@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Raza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20·%20AI%20Systems%20Architect%20·%20Production%20Builder&descAlignY=51&descAlign=50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI+Systems+That+Take+Action;Scalable+SaaS+%7C+Real-Time+Systems;Voice+AI+%7C+MCP+Servers+%7C+Automation;From+Architecture+to+Production;10%2C000%2B+Hours+of+Production+Code" alt="Typing SVG" />
