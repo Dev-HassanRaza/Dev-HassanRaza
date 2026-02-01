@@ -1,7 +1,7 @@
 <div align="center"> 
 
 <!-- World-Class Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Hassan%20Raza&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20AI%20%7C%20Systems%20Architect%20Production%20Builder&descAlignY=55&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Hassan%20Raza&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20AI%20%7C%20Systems%20Architect%20%7C%20Production%20Builder&descAlignY=55&descAlign=50&animation=twinkling"/>
 
 <!-- High-Impact Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=ARCHITECTING+NEXT-GEN+VOICE+AI;SHIPPING+PRODUCTION+AGENTIC+SYSTEMS;NEXT.JS+15+%E2%9C%96+TAILWIND+CSS+4+%E2%9C%96+SUPABASE;10,000%2B+HOURS+OF+HIGH-PERFORMANCE+LOGIC" alt="Typing SVG" />
