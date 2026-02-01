@@ -8,11 +8,6 @@
 
 <br/>
 
-<!-- Stats Row 1: High Trust Badges -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev-HassanRaza&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="Trophies" /></a>
-</p>
-
 <!-- Social Connect Hub -->
 <p align="center">
 <a href="https://www.linkedin.com/in/hassan-raza-3548b4255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
