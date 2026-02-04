@@ -40,7 +40,6 @@ I am a **Software Engineer and AI Architect** specialized in building **Agentic 
 </td>
 <td width="35%" align="center">
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Dev-HassanRaza&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" width="100%"/>
 </td>
 </tr>
 </table>
