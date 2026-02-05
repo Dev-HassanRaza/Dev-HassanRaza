@@ -120,9 +120,6 @@ I am a **Software Engineer and AI Architect** specialized in building **Agentic 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HassanRaza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400)
-
-
 <br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-HassanRaza&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=6366F1" alt="Activity Graph" />
